@@ -1,3 +1,5 @@
+# 1. Faça um programa que peça números ao usuário até que ele digite 0. Ao final, mostre a soma de todos os números digitados.
+
 soma = 0
 numero = -1
 
