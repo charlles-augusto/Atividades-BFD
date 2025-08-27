@@ -1,4 +1,4 @@
-# Program to calculate the area of N quadrilaterals
+# Programa para calcular a área de N quadriláteros
 
 n = int(input("Digite o número de quadriláteros: "))
 
