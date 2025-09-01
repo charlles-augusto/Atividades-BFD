@@ -11,6 +11,7 @@ Este repositório contém uma coleção de scripts Python desenvolvidos durante 
 - `calculo_soma.py`: Realiza soma de números
 - `comparar_numeros.py`: Compara números e mostra o maior
 - `contador_de_vogais.py`: Conta vogais em uma string
+- `conversao_lista-tupla.py`: Converte entre listas e tuplas
 - `dias_sem.py`: Manipula uma lista com os dias da semana
 - `frutas.py`: Manipula uma lista de frutas
 - `immutabilidade.py`: Demonstra a imutabilidade de tipos de dados
@@ -21,10 +22,12 @@ Este repositório contém uma coleção de scripts Python desenvolvidos durante 
 - `numeros_pares.py`: Lista números pares
 - `ocorrencia.py`: Conta a ocorrência de um elemento
 - `ordenacao.py`: Ordena os elementos de uma lista
+- `pesq_tupla.py`: Pesquisa elementos em uma tupla
 - `rem_element.py`: Remove elementos de uma lista
 - `saudacao_usuario.py`: Saúda o usuário
 - `soma_ate_zero.py`: Soma números até que zero seja inserido
 - `sum_elementos.py`: Soma os elementos de uma lista
+- `sum_tupla.py`: Soma os elementos de uma tupla
 - `tabuada_while.py`: Gera tabuada usando while
 - `tupla_simples.py`: Demonstra a criação e manipulação de tuplas
 - `valida_senha.py`: Valida uma senha
