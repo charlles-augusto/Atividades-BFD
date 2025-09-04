@@ -1,4 +1,5 @@
 # Atividades de Aulas
+![Image](https://github.com/user-attachments/assets/96ffe3d6-8e92-4eb7-8e13-8f0395b5e8c2)
 
 Este repositório contém uma coleção de scripts Python desenvolvidos durante as aulas. Os scripts estão organizados no diretório `atividades`.
 
