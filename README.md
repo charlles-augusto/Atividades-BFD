@@ -81,6 +81,40 @@ python atividades/listas_arrays/frutas.py
 
 Os scripts estão organizados no diretório `atividades` e categorizados no README.md para facilitar a navegação. A organização por categorias ajuda a encontrar exemplos específicos de acordo com o tópico de interesse.
 
+## Projetos Integradores
+
+Esta seção apresenta projetos mais complexos que integram múltiplos conceitos aprendidos nos scripts básicos. Estes projetos demonstram aplicações práticas e reais dos fundamentos de Python:
+
+### 🎬 [Streamly](https://github.com/charlles-augusto/Streamly)
+
+Um sistema de streaming de vídeo desenvolvido em Python que integra conceitos de:
+
+- Manipulação de arquivos e dados
+- Programação orientada a objetos
+- Estruturas de dados (listas, dicionários)
+- Controle de fluxo e loops
+- Validação de entrada de dados
+
+### 💡 Como os Conceitos se Conectam
+
+Os scripts básicos deste repositório servem como blocos de construção para projetos maiores:
+
+- **Conceitos Básicos** → Fundação para qualquer aplicação
+- **Operações Matemáticas** → Cálculos e algoritmos em projetos reais
+- **Manipulação de Strings** → Processamento de texto e dados
+- **Listas e Arrays** → Gerenciamento de coleções de dados
+- **Tuplas** → Estruturas de dados imutáveis para configurações
+- **Aplicações Práticas** → Exemplos diretos de uso em projetos
+
+### 🚀 Próximos Projetos
+
+Estamos sempre trabalhando em novos projetos integradores. Algumas ideias em desenvolvimento:
+
+- Sistema de gerenciamento de biblioteca
+- Calculadora científica avançada
+- Jogo de adivinhação com interface gráfica
+- Sistema de cadastro de estudantes
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir com novos scripts ou melhorias nos existentes. Para contribuir:
