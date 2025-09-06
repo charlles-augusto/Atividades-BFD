@@ -1,6 +1,6 @@
 # Atividades de Aulas Python
 
-![Image](https://github.com/user-attachments/assets/96ffe3d6-8e92-4eb7-8e13-8f0395b5e8c2)
+![Banner_BFD](https://github.com/user-attachments/assets/96ffe3d6-8e92-4eb7-8e13-8f0395b5e8c2)
 
 Este repositório contém uma coleção de scripts Python desenvolvidos durante as aulas. Os scripts estão organizados por categorias para facilitar o aprendizado e a consulta.
 
@@ -85,7 +85,7 @@ Os scripts estão organizados no diretório `atividades` e categorizados no READ
 
 Esta seção apresenta projetos mais complexos que integram múltiplos conceitos aprendidos nos scripts básicos. Estes projetos demonstram aplicações práticas e reais dos fundamentos de Python:
 
-### 🎬 [Streamly](https://github.com/charlles-augusto/Streamly)
+### 🎥 [Streamly](https://github.com/charlles-augusto/Streamly)
 
 Um sistema de streaming de vídeo desenvolvido em Python que integra conceitos de:
 
