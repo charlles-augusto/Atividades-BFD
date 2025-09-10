@@ -1,2 +1,2 @@
+requests
 # Este arquivo lista as dependências do projeto
-# Por enquanto, não há dependências externas, pois os scripts usam apenas a biblioteca padrão do Python
